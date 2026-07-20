@@ -81,13 +81,6 @@ In collaboration with the:
 <img width="1280" height="650" alt="6066723314165551386" src="https://github.com/user-attachments/assets/77576a79-41e5-4d62-ae82-06bfd6904599" />
 
 
-### Dashboard
-![Dashboard](docs/dashboard.png)
-
-### Records Management
-![Records](docs/records.png)
-
----
 
 ## 🚀 Installation
 
