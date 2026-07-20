@@ -77,7 +77,9 @@ In collaboration with the:
 
 ## 📸 System Preview
 
-> Add screenshots of your dashboard, records page, search functionality, and user management modules here.
+<img width="1280" height="663" alt="6066723314165551387" src="https://github.com/user-attachments/assets/3973a458-f421-4945-91de-83e99a06e5c0" />
+<img width="1280" height="650" alt="6066723314165551386" src="https://github.com/user-attachments/assets/77576a79-41e5-4d62-ae82-06bfd6904599" />
+
 
 ### Dashboard
 ![Dashboard](docs/dashboard.png)
